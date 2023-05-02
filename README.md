@@ -3,6 +3,8 @@
 * 🌱 From Frontend Developer technologies;
 * HTML5,
 * CSS,
+* C#,
+* SQL Server,
 * JavaScript,
 * React,
 * TypeScript, to software languages I focus on improving myself.
