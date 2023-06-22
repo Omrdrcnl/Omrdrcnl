@@ -1,6 +1,6 @@
 * 👋 Hi, I’m Ömer
 * 👀 I’m interested in Web/Mobil Frontend developmend
-* 🌱 From Jr. Softwware Developer technologies;
+* 🌱 From Softwware Developer technologies;
 * HTML5,
 * CSS,
 * C#,
