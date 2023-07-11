@@ -4,6 +4,8 @@
 * HTML5,
 * CSS,
 * C#,
+* MVC,
+* Entity Framework,
 * SQL Server,
 * JavaScript,
 * React,
