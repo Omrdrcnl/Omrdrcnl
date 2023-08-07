@@ -10,5 +10,5 @@
 * JavaScript,
 * React,
 * TypeScript, to software languages I focus on improving myself.
-* 💞️ I’m looking to hard to be Specialist Frontend Developer
+* 💞️ I’m looking to hard to be Specialist FullStack Developer
 * 📫 How to reach me omrdrcnl@gmail.com
